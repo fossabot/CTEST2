@@ -11,6 +11,7 @@
    <a href="https://buildkite.com/zephyr/zephyr">
    <img
    src="https://badge.buildkite.com/f5bd0dc88306cee17c9b38e78d11bb74a6291e3f40e7d13f31.svg?branch=main"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fkung1739%2FCTEST2?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkung1739%2FCTEST2.svg?type=shield"/></a>
 
 
 The Zephyr Project is a scalable real-time operating system (RTOS) supporting
@@ -86,3 +87,7 @@ Here's a quick summary of resources to help you find your way around:
 .. _Sample and Demo Code Examples: http://docs.zephyrproject.org/latest/samples/index.html
 .. _Security: http://docs.zephyrproject.org/latest/security/index.html
 .. _Asking for Help Tips: https://docs.zephyrproject.org/latest/getting_started/index.html#asking-for-help
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkung1739%2FCTEST2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkung1739%2FCTEST2?ref=badge_large)
